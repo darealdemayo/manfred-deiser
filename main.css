@@ -57,6 +57,7 @@
     text-align: center;
 		position: fixed;
 	bottom: 0;
+    background-color: #FFFFFF;
 }
 .ftnav ul{
     list-style: none;
@@ -76,7 +77,7 @@
     font-weight: 500;
 }
 .current{
-    #font-weight: 700 !important;
+    font-weight: bold !important;
 	text-decoration: underline;
 }
 
